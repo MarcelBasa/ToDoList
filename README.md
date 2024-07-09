@@ -9,12 +9,12 @@ Simple Todo List App is a web application developed using Node.js, Express, Post
 - Display the list of tasks to be completed
 
 ## Technologies
-- **Node.js**: Server-side JavaScript runtime
-- **Express**: Web framework for Node.js
-- **PostgreSQL**: Relational database management system
-- **JavaScript (JS)**: Programming language for the frontend and backend logic
-- **EJS**: Embedded JavaScript templates for rendering dynamic HTML
-- **HTML/CSS**: Markup and styling for the frontend
+- **Node.js**
+- **Express**
+- **PostgreSQL**
+- **JavaScript (JS)**
+- **EJS**
+- **HTML/CSS**
 
 ## Installation
 1. Clone the repository:

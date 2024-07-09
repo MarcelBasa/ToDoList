@@ -10,10 +10,10 @@ Simple Todo List App is a web application developed using Node.js, Express, Post
 
 ## Technologies
 - **Node.js**
-- **Express**
-- **PostgreSQL**
 - **JavaScript (JS)**
 - **EJS**
+- **Express**
+- **PostgreSQL**
 - **HTML/CSS**
 
 ## Installation
